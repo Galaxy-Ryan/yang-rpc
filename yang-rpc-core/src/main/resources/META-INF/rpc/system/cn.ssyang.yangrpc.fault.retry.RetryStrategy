@@ -1,0 +1,2 @@
+no=cn.ssyang.yangrpc.fault.retry.NoRetryStrategy
+fixedInterval=cn.ssyang.yangrpc.fault.retry.FixedIntervalRetryStrategy

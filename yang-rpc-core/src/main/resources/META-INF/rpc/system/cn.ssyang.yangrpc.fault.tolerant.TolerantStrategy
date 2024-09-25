@@ -1,0 +1,4 @@
+failBack=cn.ssyang.yangrpc.fault.tolerant.FailBackTolerantStrategy
+failFast=cn.ssyang.yangrpc.fault.tolerant.FailFastTolerantStrategy
+failOver=cn.ssyang.yangrpc.fault.tolerant.FailOverTolerantStrategy
+failSafe=cn.ssyang.yangrpc.fault.tolerant.FailSafeTolerantStrategy

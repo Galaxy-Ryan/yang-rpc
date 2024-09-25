@@ -1,0 +1,4 @@
+jdk=cn.ssyang.yangrpc.serializer.JdkSerializer
+hessian=cn.ssyang.yangrpc.serializer.HessianSerializer
+json=cn.ssyang.yangrpc.serializer.JsonSerializer
+kryo=cn.ssyang.yangrpc.serializer.KryoSerializer

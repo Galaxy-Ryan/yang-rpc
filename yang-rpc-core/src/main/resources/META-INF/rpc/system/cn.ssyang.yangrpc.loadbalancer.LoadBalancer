@@ -1,0 +1,3 @@
+roundRobin=cn.ssyang.yangrpc.loadbalancer.RoundRobinLoadBalancer
+random=cn.ssyang.yangrpc.loadbalancer.RandomLoadBalancer
+consistentHash=cn.ssyang.yangrpc.loadbalancer.ConsistentHashLoadBalancer
